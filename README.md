@@ -41,4 +41,4 @@ We extend our gratitude to the Java community, Oracle, and all open-source contr
 For any inquiries or feedback, please contact the project maintainers:
 - [Devesh Sharma](deveshsharma070701@gmail.com)
 
-Thank you for using the Marks Assessment System! We hope it proves to be a valuable tool for managing student grades effectively.
+Thank you for using the Marks Assessment System! I hope it proves to be a valuable tool for managing student grades effectively.
